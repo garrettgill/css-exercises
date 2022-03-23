@@ -1,0 +1,25 @@
+
+/* for odd numbers */
+.odd {
+    background-color: rgb(243, 191, 200);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+
+/* -- */
+
+#number2 {
+    color: rgb(14, 159, 255);
+    font-size: 36px;
+}
+
+.odd.num3{
+    font-size: 24;
+    font-weight: bold;
+}
+
+#num4 {
+    background-color: rgb(125, 235, 149);
+    font-size: 24px;
+    font-weight: bold;
+}
