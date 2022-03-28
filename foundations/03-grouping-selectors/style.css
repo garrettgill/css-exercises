@@ -2,8 +2,7 @@
 .buttonone,
 .buttontwo {
     font-size: 28px;
-    font: "Helveltica", "Times New Roman", "sans-serif";
-    ;
+    font: Helveltica, "Times New Roman", sans-serif;
 }
 .buttonone {
     background-color: black;
